@@ -13,3 +13,13 @@
 ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 수상경력
+</summary>
+   <br>
+
+제11회 서울시립대학교 공학수학 경시대회 장려상
+서울시립대학교 우수 졸업논문 우수상
+미래에셋 네이버클라우드 빅데이터 경진대회 장려상
