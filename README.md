@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-  🚀🚀🚀 기술스택
+  💻 기술스택
 </summary>
    <br>
 
@@ -17,7 +17,7 @@
 
 <details>
 <summary>
-  🔥🔥🔥 수상경력
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 수상경력
 </summary>
    <br>
 
